@@ -21,6 +21,8 @@ A quick project to refresh my PowerBI skills and learn a few new ones! Full writ
 
 ## Data Model
 
+<img width="1443" height="668" alt="image" src="https://github.com/user-attachments/assets/5526b7f7-714a-4f95-afcd-688cec30b008" />
+
 The report is built on a **star schema** — a central fact table surrounded by dimension tables connected via one-to-many relationships. This structure keeps the model clean, avoids data duplication, and ensures DAX filter context flows correctly from dimensions into the fact table.
 
 ### Tables
