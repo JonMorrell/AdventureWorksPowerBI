@@ -1,8 +1,8 @@
 # Adventure Works Sales Dashboard — Power BI 
 
-A business intelligence solution built in Microsoft Power BI Desktop, analysing sales performance, customer behaviour, product returns, and regional trends for the fictional Adventure Works Cycles company.
+A quick business intelligence project built in Microsoft Power BI Desktop, analysing sales performance, customer behaviour, product returns, and regional trends for the fictional Adventure Works Cycles company - refreshed some skills, learned some new skills! 
 
-A quick project to refresh my PowerBI skills and learn a few new ones! Full write up below, but if you want to skip to the dashboard and insights, here's the video: 
+<img width="1356" height="771" alt="image" src="https://github.com/user-attachments/assets/f0ee9bfb-0fb1-4cbd-9a86-98379115e84c" />
 
 > **Note:** This project was completed as part of the [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) course on Udemy (Maven Analytics). The dataset and brief were provided by the course; the data model, DAX logic, and dashboard design are my own work.
 
