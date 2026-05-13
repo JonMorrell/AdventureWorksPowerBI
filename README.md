@@ -2,7 +2,7 @@
 
 A quick business intelligence project built in Microsoft Power BI Desktop, analysing sales performance, customer behaviour, product returns, and regional trends for the fictional Adventure Works Cycles company - refreshed some skills, learned some new skills! Full write up below, dashboard walkthrough here: 
 
-
+https://youtu.be/gjM0Gt_vOI4
 
 <img width="1356" height="771" alt="image" src="https://github.com/user-attachments/assets/f0ee9bfb-0fb1-4cbd-9a86-98379115e84c" />
 
